@@ -9,7 +9,7 @@ end
 
 
 
-def countdown_with_sleep(number)
-  countdown(number)
-  sleep(5_secs)
-end
+#def countdown_with_sleep(number)
+  #countdown(number)
+  #sleep(5_secs)
+#end
