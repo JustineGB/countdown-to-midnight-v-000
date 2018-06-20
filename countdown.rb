@@ -9,6 +9,6 @@ end
 
 
 
-#def countdown_with_sleep(integer)
-  #integer.sleep(5_secs)
-#end
+def countdown_with_sleep(number)
+  number(sleep[5])
+end
